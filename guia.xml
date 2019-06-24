@@ -1,0 +1,672 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Las Estrellas">
+    <display-name lang="es">Las Estrellas</display-name>
+    <icon src="https://mitvstatic.com/channels/mx_canal-de-las-estrellas-xew_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Canal 5 MX">
+    <display-name lang="es">Canal 5</display-name>
+    <icon src="https://mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="es">Azteca 7</display-name>
+    <icon src="https://mitvstatic.com/channels/mx_azteca-7_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Gala TV">
+    <display-name lang="es">Gala TV</display-name>
+    <icon src="https://mitvstatic.com/channels/mx_galavision_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="TV Pública">
+    <display-name lang="es">TV Pública</display-name>
+    <icon src="https://mitvstatic.com/channels/ar_canal-7-capital_m.png" />
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <programme start="20190624060000 -0400" stop="20190624063000 -0400" channel="Las Estrellas">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624063000 -0400" stop="20190624070000 -0400" channel="Las Estrellas">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624070000 -0400" stop="20190624073000 -0400" channel="Las Estrellas">
+    <title lang="es">Las noticias (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Te presentamos las últimas informaciones de México y del mundo, entrevistas, fotos, videos, reportajes, coberturas, blogs e información actual(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_p_m.jpg" />
+  </programme>
+  <programme start="20190624073000 -0400" stop="20190624090000 -0400" channel="Las Estrellas">
+    <title lang="es">Despierta con Loret (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Un segmento especial donde se recibe a diversos invitados que tienen puntos de vista diferentes sobre temas de interés general, así como también a los protagonistas de los acontecimientos más resaltantes de la actualidad(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_despierta-con-loret_p_m.jpg" />
+  </programme>
+  <programme start="20190624090000 -0400" stop="20190624130000 -0400" channel="Las Estrellas">
+    <title lang="es">Al aire (?)</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Un magazine informativo en el cual podrás enterarte de los últimos acontecimientos ocurridos en el mundo del espectáculo, así como también sobre diversos temas interesantes que, generalmente, no son tratados en los noticieros comunes(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_al-aire_p_m.jpg" />
+  </programme>
+  <programme start="20190624130000 -0400" stop="20190624140000 -0400" channel="Las Estrellas">
+    <title lang="es">Un refugio para el amor (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Luciana se marcha a la capital en busca de nuevas y mejores oportunidades. Ella consigue trabajo en la residencia de una familia rica y se enamora de uno de los hijos de la familia, a pesar de que le advierten que esa familia no es de fiar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-refugio-para-el-amor_p_m.jpg" />
+  </programme>
+  <programme start="20190624140000 -0400" stop="20190624153000 -0400" channel="Las Estrellas">
+    <title lang="es">¡Cuéntamelo ya! (?)</title>
+    <sub-title lang="es">Espectáculo</sub-title>
+    <desc lang="es">Cuatro hermosas presentadoras hablan de los temas que le interesan a la mujer, así como también las historias de la farándula que nos entretienen a todos(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cuentamelo-ya-2_p_m.jpg" />
+  </programme>
+  <programme start="20190624153000 -0400" stop="20190624173000 -0400" channel="Las Estrellas">
+    <title lang="es">La gata (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Una joven pordiosera, que crece en un barrio marginal cuyo nombre real es Renata Santa Cruz, no se imagina que es la hija perdida de Don Fernando Santa Cruz, un caballero aristócrata español(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-gata_p_m.jpg" />
+  </programme>
+  <programme start="20190624173000 -0400" stop="20190624183000 -0400" channel="Las Estrellas">
+    <title lang="es">100 mexicanos dijeron (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Emisión de concursos basado en las respuestas más comunes a preguntas que previamente se realizaron a cien mexicanos en donde los participantes podrán ganar grandes cantidades de dinero en efectivo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_100-mexicanos-dijeron_p_m.jpg" />
+  </programme>
+  <programme start="20190624183000 -0400" stop="20190624193000 -0400" channel="Las Estrellas">
+    <title lang="es">Juntos, el corazón nunca se equivoca (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Aristóteles Córcega y Cuauhtémoc López deciden mudarse de Oaxaca a la Ciudad de México para empezar con sus carreras universitarias dónde a la vez deberán luchar contra la sociedad mexicana para poder vivir su romance en plenitud(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624193000 -0400" stop="20190624203000 -0400" channel="Las Estrellas">
+    <title lang="es">Como dice el dicho (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_como-dice-el-dicho_p_m.jpg" />
+  </programme>
+  <programme start="20190624203000 -0400" stop="20190624213000 -0400" channel="Las Estrellas">
+    <title lang="es">La rosa de Guadalupe (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-rosa-de-guadalupe_p_m.jpg" />
+  </programme>
+  <programme start="20190624213000 -0400" stop="20190624233000 -0400" channel="Las Estrellas">
+    <title lang="es">Juntos, el corazón nunca se equivoca (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Aristóteles Córcega y Cuauhtémoc López deciden mudarse de Oaxaca a la Ciudad de México para empezar con sus carreras universitarias dónde a la vez deberán luchar contra la sociedad mexicana para poder vivir su romance en plenitud(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624233000 -0400" stop="20190625000000 -0400" channel="Las Estrellas">
+    <title lang="es">Diez en punto (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Entérate de los sucesos más relevantes de México y el mundo en este segmento especial(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_diez-en-punto_p_m.jpg" />
+  </programme>
+  <programme start="20190624060000 -0400" stop="20190624063000 -0400" channel="Canal 5 MX">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624063000 -0400" stop="20190624070000 -0400" channel="Canal 5 MX">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624070000 -0400" stop="20190624072000 -0400" channel="Canal 5 MX">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624072000 -0400" stop="20190624073000 -0400" channel="Canal 5 MX">
+    <title lang="es">Molang (?)</title>
+    <sub-title lang="es">Animación</sub-title>
+    <desc lang="es">Molang es un conejo curioso que hace de cada momento de su vida diaria algo único y maravilloso, prestando una atención especial a cada detalle, lo que le da un sabor inesperado a las cosas(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_molang_p_m.jpg" />
+  </programme>
+  <programme start="20190624073000 -0400" stop="20190624080000 -0400" channel="Canal 5 MX">
+    <title lang="es">Masha y el oso (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">¿Qué sucede cuando se encuentran una niñita increíblemente curiosa con un oso paciente y cariñoso que disfruta de una vida muy tranquila? ¡Una amistad repleta de maravillosas historias!(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_masha-y-el-oso_p_m.jpg" />
+  </programme>
+  <programme start="20190624080000 -0400" stop="20190624083000 -0400" channel="Canal 5 MX">
+    <title lang="es">The Furchester Hotel (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Elmo salta al otro lado del estanque para ayudar a su familia a solucionar los problemas en su divertido y caótico establecimiento de casi primera categoría, el Hotel Furchester(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-furchester-hotel_p_m.jpg" />
+  </programme>
+  <programme start="20190624083000 -0400" stop="20190624085500 -0400" channel="Canal 5 MX">
+    <title lang="es">Super Jett (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">En este programa lleno de acción para niños en edad preescolar, un avión simpático llamado Jett viaja por el mundo entregándoles paquetes a los más pequeños. Jett trata de resolver problemas junto a sus amigos los "Súper Wings"(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_super-jett_p_m.jpg" />
+  </programme>
+  <programme start="20190624085500 -0400" stop="20190624090000 -0400" channel="Canal 5 MX">
+    <title lang="es">El mundo de Elmo (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Acompaña al curioso y divertido Elmo a explorar el mundo que lo rodea(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-mundo-de-elmo_p_m.jpg" />
+  </programme>
+  <programme start="20190624090000 -0400" stop="20190624092000 -0400" channel="Canal 5 MX">
+    <title lang="es">PJ Masks: héroes en pijamas (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Gatuno, Buhíta y Gekko, tres niños de seis años que llevan vidas normales durante el día, por la noche activan sus pulseras que se vinculan a sus pijamas y se convierten en superhéroes(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_pj-masks-heroes-en-pijamas_p_m.jpg" />
+  </programme>
+  <programme start="20190624092000 -0400" stop="20190624093000 -0400" channel="Canal 5 MX">
+    <title lang="es">Cleo y Cuquín: familia Telerín (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Cleo, Cuquín y sus hermanos vivirán increíbles aventuras y se enfrentarán a pequeños conflictos cotidianos que resolverán a través del cambio de roles, convirtiéndose en jardineros, periodistas, capitanes de barco y otros oficios(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cleo-y-cuquin-familia-telerin-1_p_m.jpg" />
+  </programme>
+  <programme start="20190624093000 -0400" stop="20190624100000 -0400" channel="Canal 5 MX">
+    <title lang="es">Thomas y sus amigos (?)</title>
+    <sub-title lang="es">Animación</sub-title>
+    <desc lang="es">¿Quién es Thomas? Nada más y nada menos que un gracioso tren que se convertirá en el mejor amigo de los niños. Sus aventuras las compartirá con varios compañeros entre los que se encuentran un autobús, un helicóptero y un tractor(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_thomas-y-sus-amigos_p_m.jpg" />
+  </programme>
+  <programme start="20190624100000 -0400" stop="20190624103000 -0400" channel="Canal 5 MX">
+    <title lang="es">Polly Pocket (?)</title>
+    <sub-title lang="es">Animación</sub-title>
+    <desc lang="es">Acompaña a Polly y sus amigas en sus divertidas aventuras(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_polly-pocket_p_m.jpg" />
+  </programme>
+  <programme start="20190624103000 -0400" stop="20190624120000 -0400" channel="Canal 5 MX">
+    <title lang="es">El fantasma Danny (?)</title>
+    <sub-title lang="es">D.Animados</sub-title>
+    <desc lang="es">Danny es muy distinto a los demás. De apariencia es un adolescente de 14 años, un poco nervioso y torpe. Pero detrás de eso es un verdadero súper héroe(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-fantasma-danny_p_m.jpg" />
+  </programme>
+  <programme start="20190624120000 -0400" stop="20190624130000 -0400" channel="Canal 5 MX">
+    <title lang="es">Kung Fu Panda: la leyenda de Po (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Las aventuras de Po como entrenador, protector, luchador, maestro, hablador y el nuevo héroe del Valle de la Paz. Ahora, viviendo en el cuartel con los Cinco Furiosos, el panda deberá tener muchas responsabilidades(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kung-fu-panda-la-leyenda-de-po_p_m.jpg" />
+  </programme>
+  <programme start="20190624130000 -0400" stop="20190624140000 -0400" channel="Canal 5 MX">
+    <title lang="es">Los Jóvenes Titanes en acción (?)</title>
+    <sub-title lang="es">D.Animados</sub-title>
+    <desc lang="es">Conoce a Robin, Cyborg, Starfire, Raven y Chico Bestia. Sin duda siguen siendo superhéroes que salvan el mundo, pero ¿qué sucede cuando ya terminaron de luchar contra el crimen?(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-jovenes-titanes-en-accion_p_m.jpg" />
+  </programme>
+  <programme start="20190624140000 -0400" stop="20190624150000 -0400" channel="Canal 5 MX">
+    <title lang="es">Bob Esponja (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_bob-esponja_p_m.jpg" />
+  </programme>
+  <programme start="20190624150000 -0400" stop="20190624160000 -0400" channel="Canal 5 MX">
+    <title lang="es">Haunted Hathaways, una familia embrujada (?)</title>
+    <sub-title lang="es">Comedia</sub-title>
+    <desc lang="es">Una chica y su madre se mudan a una nueva casa en Nueva Orleans, sin saber que allí habita otra familia y que los integrantes son fantasmas. Ambos grupos familiares hacen todo lo posible para pasar un momento increíble(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_haunted-hathaways-una-familia-embrujada_p_m.jpg" />
+  </programme>
+  <programme start="20190624160000 -0400" stop="20190624173000 -0400" channel="Canal 5 MX">
+    <title lang="es">La CQ (?)</title>
+    <sub-title lang="es">Comedia</sub-title>
+    <desc lang="es">Cuenta las aventuras de ocho estudiantes de preparatoria con personalidades muy diferentes que viven en el mismo universo alocado, un instituto moderno y exclusivo donde encontrarán las divertidísimas situaciones(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cq_p_m.jpg" />
+  </programme>
+  <programme start="20190624173000 -0400" stop="20190624190000 -0400" channel="Canal 5 MX">
+    <title lang="es">Drake and Josh (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Dos chicos de personalidades muy diferentes se convierten en hermanastros y compañeros de cuarto. ¿Cómo podrán, el ordenado y obediente Josh, y divertido e irresponsable Drake, llevarse bien y lograr compartir la misma habitación?(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_drake-and-josh_p_m.jpg" />
+  </programme>
+  <programme start="20190624190000 -0400" stop="20190624203000 -0400" channel="Canal 5 MX">
+    <title lang="es">Malcolm (?)</title>
+    <sub-title lang="es">Comedia</sub-title>
+    <desc lang="es">La historia de una familia compuesta por cuatro hermanos y sus padres. Malcolm parece ser el único que muestra algo de cordura, mientras sus neuróticos padres y sus tres hermanos se meten en problemas(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_malcolm_p_m.jpg" />
+  </programme>
+  <programme start="20190624203000 -0400" stop="20190624213000 -0400" channel="Canal 5 MX">
+    <title lang="es">Los simuladores (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Los Simuladores son un comando especializado en la realización de operativos de simulación. Cuatro socios constituyen un equipo que buscan la solución a los problemas que plantean sus clientes(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simuladores_p_m.jpg" />
+  </programme>
+  <programme start="20190624213000 -0400" stop="20190624233000 -0400" channel="Canal 5 MX">
+    <title lang="es">Inseparables: amor al límite (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Doce parejas vivirán juntas en la misma casa y, durante varias semanas, pondrán a prueba su relación. Los participantes demostrarán qué tan bien se conocen entre sí y si son honestos cuando hay una ganancia de por medio(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624233000 -0400" stop="20190625003000 -0400" channel="Canal 5 MX">
+    <title lang="es">Sin miedo a la verdad (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Manu es un joven que utiliza su vlog para proteger a todos los usuarios que han sido víctimas de alguna injusticia. Con sus habilidades y la ayuda de su mentora, Doña Cata, Manu resolverá en cada episodio casos como el cyberbullying(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_sin-miedo-a-la-verdad_p_m.jpg" />
+  </programme>
+  <programme start="20190624060000 -0400" stop="20190624061500 -0400" channel="Azteca 7">
+    <title lang="es">Barras de ajuste (?)</title>
+    <sub-title lang="es">Especial</sub-title>
+    <desc lang="es">Cierre de la transmisión de la señal diaria del canal(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624061500 -0400" stop="20190624063000 -0400" channel="Azteca 7">
+    <title lang="es">RTC (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rtc_p_m.jpg" />
+  </programme>
+  <programme start="20190624063000 -0400" stop="20190624070000 -0400" channel="Azteca 7">
+    <title lang="es">Marcas de renombre (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Espacio para la promoción y venta de los productos que están causando sensación en México. No te pierdas la oportunidad de adquirir uno de estos artículos que seguro te serán de mucha utilidad(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_marcas-de-renombre_p_m.jpg" />
+  </programme>
+  <programme start="20190624070000 -0400" stop="20190624073000 -0400" channel="Azteca 7">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624073000 -0400" stop="20190624080000 -0400" channel="Azteca 7">
+    <title lang="es">El día que Henry conoció (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Henry es un niño de cuatro años que siempre quiere aprender y saber más. Así que en cada episodio tiene una charla amistosa con lo que alguna vez conoce(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-dia-que-henry-conocio_p_m.jpg" />
+  </programme>
+  <programme start="20190624080000 -0400" stop="20190624083000 -0400" channel="Azteca 7">
+    <title lang="es">Bubu y las lechucitas (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Una familia de búhos alegre, afectuosa y llena de aventuras divertidas, que invita a conquistarte(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_bubu-y-las-lechucitas_p_m.jpg" />
+  </programme>
+  <programme start="20190624083000 -0400" stop="20190624090000 -0400" channel="Azteca 7">
+    <title lang="es">Mimosa ja Lennu (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">La pirata y su tripulación recorren incansablemente los océanos en busca de tesoros sumergidos, aunque con amigos como estos, cualquier día es una aventura(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mimosa-ja-lennu_p_m.jpg" />
+  </programme>
+  <programme start="20190624090000 -0400" stop="20190624093000 -0400" channel="Azteca 7">
+    <title lang="es">Pocoyo (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">La historia de un niño en edad preescolar y sus descubrimientos acerca del mundo que lo rodea. Todo para él es nuevo y lleno de oportunidades para jugar y aprender(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_pocoyo_p_m.jpg" />
+  </programme>
+  <programme start="20190624093000 -0400" stop="20190624101500 -0400" channel="Azteca 7">
+    <title lang="es">Mickey: aventuras sobre ruedas (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Mickey y su pandilla, subidos a sus vehículos personalizados, se embarcan en un sinfín de aventuras y travesuras mientras participan de emocionantes carreras tanto en su ciudad, Hot Dog Hills, como alrededor del mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mickey-aventuras-sobre-ruedas_p_m.jpg" />
+  </programme>
+  <programme start="20190624101500 -0400" stop="20190624103000 -0400" channel="Azteca 7">
+    <title lang="es">Miles del mañana (?)</title>
+    <sub-title lang="es">Animación</sub-title>
+    <desc lang="es">El pequeño Miles y su familia, formada por la mamá Phoebe, el padre Leo, su hermana Loretta y la mascota el avestruz robótico Merc, viven en una estación espacial donde reciben instrucciones sobre la misión encomendada para cada día(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_miles-del-manana_p_m.jpg" />
+  </programme>
+  <programme start="20190624103000 -0400" stop="20190624113000 -0400" channel="Azteca 7">
+    <title lang="es">Muppet Babies (?)</title>
+    <sub-title lang="es">D.Animados</sub-title>
+    <desc lang="es">René, Peggy, Gonzo, Animal, Rufo, Kiko, Kika y Fozzie viven en una guardería, bajo la supervisión de Nanny, donde se trasladan a diferentes lugares y viven aventuras con la ayuda de su gran imaginación. Acompáñalos y diviértete(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_muppet-babies_p_m.jpg" />
+  </programme>
+  <programme start="20190624113000 -0400" stop="20190624120000 -0400" channel="Azteca 7">
+    <title lang="es">La guardia del león (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Sigue las divertidas aventuras de Kion, el segundo hijo de Simba y Nala, junto a sus amigos a través de la sabana africana(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-guardia-del-leon_p_m.jpg" />
+  </programme>
+  <programme start="20190624120000 -0400" stop="20190624130000 -0400" channel="Azteca 7">
+    <title lang="es">Kally's Mash Up (?)</title>
+    <sub-title lang="es">Comedia</sub-title>
+    <desc lang="es">Kally es una niña prodigio musical de trece años que, luego de mudarse de un pueblo pequeño a la universidad de música más prestigiosa del país, intentará balancear su vida como una virtuosa pianista y una adolescente cualquiera(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kally-s-mash-up_p_m.jpg" />
+  </programme>
+  <programme start="20190624130000 -0400" stop="20190624140000 -0400" channel="Azteca 7">
+    <title lang="es">Pokémon (?)</title>
+    <sub-title lang="es">D.Animados</sub-title>
+    <desc lang="es">Ash y sus amigos capturan, entrenan y batallan con los Pokémon. En su camino deberán enfrentar al malvado "Team Rocket", formado por Jessie, James y Meowth, quienes quieren dominar al mundo(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_pokemon_p_m.jpg" />
+  </programme>
+  <programme start="20190624140000 -0400" stop="20190624150000 -0400" channel="Azteca 7">
+    <title lang="es">La pandilla de la selva (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">En lo más profundo de la jungla, si hay un problema o una injusticia, no te preocupes: sólo debes dar una señal a la pandilla de la selva y ellos irán al rescate. Es imposible aburrirse con este grupo de héroes listos para la aventura(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-pandilla-de-la-selva_p_m.jpg" />
+  </programme>
+  <programme start="20190624150000 -0400" stop="20190624160000 -0400" channel="Azteca 7">
+    <title lang="es">Escandalosos (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer lo que sea con tal de pertenecer a la sociedad humana. Los peludos amigos tienen dificultades para asimilar la civilización(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_escandalosos_p_m.jpg" />
+  </programme>
+  <programme start="20190624160000 -0400" stop="20190624170000 -0400" channel="Azteca 7">
+    <title lang="es">Las chicas superpoderosas (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Burbuja, Bombón y Bellota están listas para luchar contra monstruos y villanos. El crimen está presente en Saltadilla y nuestras heroínas están preparadas para el ataque..(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-chicas-superpoderosas_p_m.jpg" />
+  </programme>
+  <programme start="20190624170000 -0400" stop="20190624173000 -0400" channel="Azteca 7">
+    <title lang="es">Los Simpson (?)</title>
+    <sub-title lang="es">Animación</sub-title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simpson_p_m.jpg" />
+  </programme>
+  <programme start="20190624173000 -0400" stop="20190624180000 -0400" channel="Azteca 7">
+    <title lang="es">Los Simpson (?)</title>
+    <sub-title lang="es">Animación</sub-title>
+    <desc lang="es">Narra las vivencias de una peculiar familia norteamericana conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, junto a otros divertidos personajes de la localidad de Springfield(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simpson_p_m.jpg" />
+  </programme>
+  <programme start="20190624180000 -0400" stop="20190624184500 -0400" channel="Azteca 7">
+    <title lang="es">Depor TV (?)</title>
+    <sub-title lang="es">Depor TV</sub-title>
+    <desc lang="es">Repasa junto a Luis Alberto García, Christian Martinoli y Antonio Rosique el desarrollo de todos los temas deportivos más destacados de la semana en la provincia y la región(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-depor-tv_p_m.jpg" />
+  </programme>
+  <programme start="20190624184500 -0400" stop="20190624210000 -0400" channel="Azteca 7">
+    <title lang="es">Chile vs. Uruguay (?)</title>
+    <sub-title lang="es">Grupo C - Fecha 3, Estadio Maracanã</sub-title>
+    <desc lang="es">Disfruta de la cuadragésima sexta edición de la principal competencia futbolística entre selecciones nacionales de América del Sur, organizada por la Confederación Sudamericana de Fútbol(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_futbol-chile-vs-uruguay-grupo-c-fecha-3-estadio-maracan_p_m.jpg" />
+  </programme>
+  <programme start="20190624210000 -0400" stop="20190624214500 -0400" channel="Azteca 7">
+    <title lang="es">Ghost Whisperer (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Melinda se involucra con muertos y vivos en intentos, a veces espeluznantes, desgarradores o graciosos por servir de intermediaria entre los fantasmas y aquellos a quienes persiguen(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ghost-whisperer_p_m.jpg" />
+  </programme>
+  <programme start="20190624214500 -0400" stop="20190624223000 -0400" channel="Azteca 7">
+    <title lang="es">Ghost Whisperer (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Melinda se involucra con muertos y vivos en intentos, a veces espeluznantes, desgarradores o graciosos por servir de intermediaria entre los fantasmas y aquellos a quienes persiguen(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ghost-whisperer_p_m.jpg" />
+  </programme>
+  <programme start="20190624223000 -0400" stop="20190624233000 -0400" channel="Azteca 7">
+    <title lang="es">Ghost Whisperer (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Melinda se involucra con muertos y vivos en intentos, a veces espeluznantes, desgarradores o graciosos por servir de intermediaria entre los fantasmas y aquellos a quienes persiguen(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ghost-whisperer_p_m.jpg" />
+  </programme>
+  <programme start="20190624233000 -0400" stop="20190625003000 -0400" channel="Azteca 7">
+    <title lang="es">Resistiré (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Este provocador reality va a poner a prueba a los participantes en sus prioridades de vida: qué es lo fundamental para vivir y sobrevivir, y qué están dispuestos a sacrificar para ganar el premio más grande que se ha entregado en Chile(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_resistire_p_m.jpg" />
+  </programme>
+  <programme start="20190624060000 -0400" stop="20190624063000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624063000 -0400" stop="20190624070000 -0400" channel="Gala TV">
+    <title lang="es">Iglesia de Dios internacional (?)</title>
+    <sub-title lang="es">Religioso</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624070000 -0400" stop="20190624073000 -0400" channel="Gala TV">
+    <title lang="es">Infomax (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624073000 -0400" stop="20190624080000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624080000 -0400" stop="20190624083000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624083000 -0400" stop="20190624090000 -0400" channel="Gala TV">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624090000 -0400" stop="20190624093000 -0400" channel="Gala TV">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624093000 -0400" stop="20190624100000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624100000 -0400" stop="20190624103000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624103000 -0400" stop="20190624113000 -0400" channel="Gala TV">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624113000 -0400" stop="20190624120000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624120000 -0400" stop="20190624123000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624123000 -0400" stop="20190624130000 -0400" channel="Gala TV">
+    <title lang="es">Infomax (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624130000 -0400" stop="20190624133000 -0400" channel="Gala TV">
+    <title lang="es">Infomax (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624133000 -0400" stop="20190624140000 -0400" channel="Gala TV">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624140000 -0400" stop="20190624143000 -0400" channel="Gala TV">
+    <title lang="es">Inova (?)</title>
+    <sub-title lang="es">Publicidad</sub-title>
+    <desc lang="es">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_p_m.jpg" />
+  </programme>
+  <programme start="20190624143000 -0400" stop="20190624150000 -0400" channel="Gala TV">
+    <title lang="es">CV directo (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_p_m.jpg" />
+  </programme>
+  <programme start="20190624150000 -0400" stop="20190624153000 -0400" channel="Gala TV">
+    <title lang="es">Infomax (?)</title>
+    <sub-title lang="es">Variedades</sub-title>
+    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624153000 -0400" stop="20190624163000 -0400" channel="Gala TV">
+    <title lang="es">El noticiero de Karla Iberia S. (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Karla Iberia presenta este espacio informativo, donde encontrarás reportajes y coberturas especiales desde el epicentro de la noticia(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-noticiero-de-karla-iberia-s_p_m.jpg" />
+  </programme>
+  <programme start="20190624163000 -0400" stop="20190624173000 -0400" channel="Gala TV">
+    <title lang="es">Mujer, casos de la vida real (?)</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mujer-casos-de-la-vida-real_p_m.jpg" />
+  </programme>
+  <programme start="20190624173000 -0400" stop="20190624184500 -0400" channel="Gala TV">
+    <title lang="es">Josué y la tierra prometida (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">La historia bíblica en la que Josué asume el mando de las tribus de Israel en busca de la tierra prometida, a la vez que afronta sus propios conflictos personales para poder seguir los designios de Dios(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_josue-y-la-tierra-prometida_p_m.jpg" />
+  </programme>
+  <programme start="20190624184500 -0400" stop="20190624210000 -0400" channel="Gala TV">
+    <title lang="es">Chile vs. Uruguay (?)</title>
+    <sub-title lang="es">Grupo C - Fecha 3, Estadio Maracanã</sub-title>
+    <desc lang="es">Disfruta de la cuadragésima sexta edición de la principal competencia futbolística entre selecciones nacionales de América del Sur, organizada por la Confederación Sudamericana de Fútbol(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_futbol-chile-vs-uruguay-grupo-c-fecha-3-estadio-maracan_p_m.jpg" />
+  </programme>
+  <programme start="20190624210000 -0400" stop="20190624220000 -0400" channel="Gala TV">
+    <title lang="es">La hora pico (?)</title>
+    <sub-title lang="es">Humorístico</sub-title>
+    <desc lang="es">Disfruta de un divertido segmento de entretenimiento y humorismo realizado especialmente para toda la familia, abordando temas de actualidad e interés general y presentando hilarantes sketches sobre situaciones cotidianas(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-hora-pico_p_m.jpg" />
+  </programme>
+  <programme start="20190624220000 -0400" stop="20190624233000 -0400" channel="Gala TV">
+    <title lang="es">Decisiones de mujeres (?)</title>
+    <sub-title lang="es">Drama</sub-title>
+    <desc lang="es">Decisiones de mujeres son situaciones de la vida real llevadas a la pantalla con una voz sincera, en ocasiones irreverente y en otras conmovedora.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
+  </programme>
+  <programme start="20190624233000 -0400" stop="20190625020000 -0400" channel="Gala TV">
+    <title lang="es">Victoria (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Victoria ha estado casada por 25 años, pero un día descubre que su esposo la engaña. Intentado salvar su matrimonio, conoce a German, un joven del que se enamora perdidamente y por quien deberá decidir si su destino(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_victoria_p_m.jpg" />
+  </programme>
+  <programme start="20190624060000 -0400" stop="20190624063000 -0400" channel="TV Pública">
+    <title lang="es">Prematuros (?)</title>
+    <sub-title lang="es">Documental</sub-title>
+    <desc lang="es">Este documental muestra que los bebés prematuros no saldrían adelante sin el apoyo incondicional de sus médicos y enfermeros. Cada capítulo tiene como protagonista a una red de contención formada por padres, médicos y enfermeros(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_prematuros_p_m.jpg" />
+  </programme>
+  <programme start="20190624063000 -0400" stop="20190624070000 -0400" channel="TV Pública">
+    <title lang="es">Pampero TV (?)</title>
+    <sub-title lang="es">Agro</sub-title>
+    <desc lang="es">Noticero del Instituto Nacional de Tecnología Agropecuario, ofrece a diario información sobre agro y alimentos, producido en Trenque Lauquen, y conducido por Yamila Chiodi(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pampero-tv_p_m.jpg" />
+  </programme>
+  <programme start="20190624070000 -0400" stop="20190624080000 -0400" channel="TV Pública">
+    <title lang="es">TPA Noticias (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Un noticiero federal, inclusivo, plural y dinámico, en el que todas las voces son representadas. Televisión Pública Noticias propone la agenda periodística más destacada e importante del día(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tpa-noticias_p_m.jpg" />
+  </programme>
+  <programme start="20190624080000 -0400" stop="20190624083000 -0400" channel="TV Pública">
+    <title lang="es">Pakapaka (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Segmento infantil especialmente pensada e igualmente diseñada para chicas y chicos de todo el país, de entre siete y once años. Un espacio para que ellos se reconozcan, se diviertan y se animen a aprender y descubrir(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pakapaka_p_m.jpg" />
+  </programme>
+  <programme start="20190624083000 -0400" stop="20190624090000 -0400" channel="TV Pública">
+    <title lang="es">Faros, la luz de la civilización (?)</title>
+    <sub-title lang="es">Documental</sub-title>
+    <desc lang="es">Los faros ejercen una fascinación que transciende su función de guiar y auxiliar a los marinos. Reconstruye la importancia a lo largo del tiempo que significó su presencia y de cómo continúa conectando el mar, la costa y la civilización(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_faros-la-luz-de-la-civilizacion-1_p_m.jpg" />
+  </programme>
+  <programme start="20190624090000 -0400" stop="20190624100000 -0400" channel="TV Pública">
+    <title lang="es">Nuestras crónicas (?)</title>
+    <sub-title lang="es">Cultural</sub-title>
+    <desc lang="es">Con la colaboración de los archivos del BACUA, INCAA, Canal Encuentro y el CONICET, las diversas inquietudes culturales de la Argentina tendrán su lugar, a través de una mirada federal, en la pantalla pública(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_nuestras-cronicas_p_m.jpg" />
+  </programme>
+  <programme start="20190624100000 -0400" stop="20190624120000 -0400" channel="TV Pública">
+    <title lang="es">Argentina baila (?)</title>
+    <sub-title lang="es">Danza</sub-title>
+    <desc lang="es">Con la visita de los artistas más destacados de la música popular, móviles en todo el país con la actualidad de artistas, artesanos y diseñadores y promoverá el encuentro diario a través del contacto con las 49 emisoras de Radio Nacional(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_argentina-baila_p_m.jpg" />
+  </programme>
+  <programme start="20190624120000 -0400" stop="20190624150000 -0400" channel="TV Pública">
+    <title lang="es">#SomosArgentina (?)</title>
+    <sub-title lang="es">#SomosArgentina</sub-title>
+    <desc lang="es">Un programa con toda la actualidad deportiva. Un programa con los mejores momentos del deporte a nivel mundial(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-somosargentina_p_m.jpg" />
+  </programme>
+  <programme start="20190624150000 -0400" stop="20190624163000 -0400" channel="TV Pública">
+    <title lang="es">El hombre de las sorpresas (?)</title>
+    <desc lang="es">Un hombre finge estar muerto y su última voluntad, hace que su esposa se case nuevamente y, de esta maner, pierda la herencia(n)</desc>
+    <credits>
+      <director>Leopoldo Torres Ríos</director>
+      <actor>Francisco Martínez Allende</actor>
+      <actor>Eduardo Sandrini</actor>
+      <actor>Inda Ledesma</actor>
+      <actor>Andrés Vázquez</actor>
+      <actor>Narciso Ibáñez Menta</actor>
+    </credits>
+    <date>1949</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-hombre-de-las-sorpresas-1949_p_m.jpg" />
+    <rating>
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20190624163000 -0400" stop="20190624180000 -0400" channel="TV Pública">
+    <title lang="es">Pakapaka (?)</title>
+    <sub-title lang="es">Entretenimientos</sub-title>
+    <desc lang="es">Segmento infantil especialmente pensada e igualmente diseñada para chicas y chicos de todo el país, de entre siete y once años. Un espacio para que ellos se reconozcan, se diviertan y se animen a aprender y descubrir(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pakapaka_p_m.jpg" />
+  </programme>
+  <programme start="20190624180000 -0400" stop="20190624190000 -0400" channel="TV Pública">
+    <title lang="es">TPA Noticias (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Un noticiero federal, inclusivo, plural y dinámico, en el que todas las voces son representadas. Televisión Pública Noticias propone la agenda periodística más destacada e importante del día(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tpa-noticias_p_m.jpg" />
+  </programme>
+  <programme start="20190624190000 -0400" stop="20190624200000 -0400" channel="TV Pública">
+    <title lang="es">Cocineros de noche (?)</title>
+    <sub-title lang="es">Cocina</sub-title>
+    <desc lang="es">Un espacio que brinda información, servicios y las recetas favoritas de los argentinos, para acercar a la audiencia los sabores de cada rincón del país, pero con un objetivo diferente: ofrecer alternativas para la cena(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocineros-de-noche_p_m.jpg" />
+  </programme>
+  <programme start="20190624200000 -0400" stop="20190624210000 -0400" channel="TV Pública">
+    <title lang="es">Los titulares (?)</title>
+    <sub-title lang="es">Los titulares</sub-title>
+    <desc lang="es">Diferentes secciones que incluyen entrevistas en vivo con grandes referentes del deporte y las artes, la presencia de historiadores y periodistas deportivos y performances artísticas(n)</desc>
+    <category lang="es">vivo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_magazine-los-titulares_p_m.jpg" />
+  </programme>
+  <programme start="20190624210000 -0400" stop="20190624220000 -0400" channel="TV Pública">
+    <title lang="es">Ronda de editores (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Un espacio de debate sobre la actualidad entre editores de diarios y revistas, abordando el rol que cada tema juega en un medio específico y los dilemas que se presentan a quienes deciden qué lugar le brindan a una noticia(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ronda-de-editores_p_m.jpg" />
+  </programme>
+  <programme start="20190624220000 -0400" stop="20190624223000 -0400" channel="TV Pública">
+    <title lang="es">Cada noche (?)</title>
+    <sub-title lang="es">Entrevista</sub-title>
+    <desc lang="es">Un segmento que tiene la particularidad de tener un entrevistador por emisión y, además, cuenta tanto con invitados del ámbito de la política como del arte, el espectáculo y el deporte(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cada-noche_p_m.jpg" />
+  </programme>
+  <programme start="20190624223000 -0400" stop="20190624230000 -0400" channel="TV Pública">
+    <title lang="es">Re (?)</title>
+    <sub-title lang="es">Interés General</sub-title>
+    <desc lang="es">Noticiero que presenta noticias nacionales e internacionales del mundo de la música, efemérides, y videoclips. También se presentarán bandas nuevas y se realizarán coberturas de shows y festivales de música(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_re_p_m.jpg" />
+  </programme>
+  <programme start="20190624230000 -0400" stop="20190625000000 -0400" channel="TV Pública">
+    <title lang="es">La noche de la Copa (?)</title>
+    <sub-title lang="es">La noche de la Copa</sub-title>
+    <desc lang="es">Un programa informativo diario sobre todos los acontecimientos referidos a la Copa América Brasil 2019. Con los partidos de la selección nacional de fútbol en vivo y enviados a Brasil(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-la-noche-de-la-copa_p_m.jpg" />
+  </programme>
+</tv>
