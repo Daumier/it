@@ -1,0 +1,949 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Premium Sport HD 2">
+    <display-name lang="it">Premium Sport HD</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel>
+  <channel id="Premium Sport 2 HD 2">
+    <display-name lang="it">Premium Sport 2 HD</display-name>
+    <url>http://www.mediasetpremium.it</url>
+  </channel>
+  <channel id="La7 2">
+    <display-name lang="it">La7</display-name>
+    <url>http://www.it.tv.yahoo.com</url>
+  </channel>
+  <channel id="RealTime IT">
+    <display-name lang="it">RealTime IT</display-name>
+    <url>http://www.nove.tv</url>
+  </channel>
+  <channel id="Action">
+    <display-name lang="it">Action</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Canale 5">
+    <display-name lang="it">Canale 5</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="it">Discovery World</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Dmax">
+    <display-name lang="it">Dmax</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Focus TV">
+    <display-name lang="it">Focus TV</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Fox Sports plus">
+    <display-name lang="it">Fox Sports plus</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Italia 1">
+    <display-name lang="it">Italia 1</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Italia 2">
+    <display-name lang="it">Italia 2</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="Sportitalia b">
+    <display-name lang="en">Sportitalia b</display-name>
+    <icon src="https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/sportitalia.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Alice">
+    <display-name lang="en">Alice</display-name>
+    <icon src="https://wp23-images-ch-dynamic.horizon.tv/channellogos/02/alice.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Marcopolo">
+    <display-name lang="en">Marcopolo</display-name>
+    <icon src="https://wp10-images-ch-dynamic.horizon.tv/channellogos/02/marcopolo.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 1 HD">
+    <display-name lang="en">RSI LA 1 HD</display-name>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/channellogos/02/rsi_la_1_hd.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 2 HD">
+    <display-name lang="en">RSI LA 2 HD</display-name>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/channellogos/02/rsi_la_2_hd.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="24Kitchen">
+    <display-name lang="pt">24Kitchen</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="24Kitchen HD">
+    <display-name lang="pt">24Kitchen HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AfroMusic Portugal">
+    <display-name lang="pt">AfroMusic Portugal</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MTV Portugal">
+    <display-name lang="pt">MTV Portugal</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MTV Portugal HD">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTPHD">
+    <display-name lang="pt">RTPHD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20190903060000 +0200" stop="20190903062500 +0200" channel="RealTime IT">
+    <title lang="it">Alta infedelta'</title>
+    <sub-title lang="it">Battito animale</sub-title>
+    <episode-num system="xmltv_ns">1.31.</episode-num>
+  </programme>
+  <programme start="20190903062500 +0200" stop="20190903065500 +0200" channel="RealTime IT">
+    <title lang="it">Alta infedelta'</title>
+    <sub-title lang="it">Incontri di gruppo</sub-title>
+    <episode-num system="xmltv_ns">1.32.</episode-num>
+  </programme>
+  <programme start="20190903065500 +0200" stop="20190903075500 +0200" channel="RealTime IT">
+    <title lang="it">Dr. Pimple Popper: la dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">L'unicorno</sub-title>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20190903075500 +0200" stop="20190903085000 +0200" channel="RealTime IT">
+    <title lang="it">Dr. Pimple Popper: la dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">La rosacea</sub-title>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20190903085000 +0200" stop="20190903095000 +0200" channel="RealTime IT">
+    <title lang="it">Malati di pulito</title>
+    <sub-title lang="it">Dann-Charlotte-Dom e Angela-Lorraine</sub-title>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
+  <programme start="20190903095000 +0200" stop="20190903105000 +0200" channel="RealTime IT">
+    <title lang="it">Malati di pulito</title>
+    <sub-title lang="it">Amanda-Janine e Mark-Avril</sub-title>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20190903105000 +0200" stop="20190903115000 +0200" channel="RealTime IT">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Sara e Rossella vs. Andrea e Daniele</sub-title>
+    <episode-num system="xmltv_ns">9.14.</episode-num>
+  </programme>
+  <programme start="20190903115000 +0200" stop="20190903125000 +0200" channel="RealTime IT">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Vanessa e Massimiliano vs. Heleni e Ivana</sub-title>
+    <episode-num system="xmltv_ns">9.15.</episode-num>
+  </programme>
+  <programme start="20190903125000 +0200" stop="20190903141500 +0200" channel="RealTime IT">
+    <title lang="it">Primo appuntamento</title>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20190903141500 +0200" stop="20190903154000 +0200" channel="RealTime IT">
+    <title lang="it">Primo appuntamento</title>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+  </programme>
+  <programme start="20190903154000 +0200" stop="20190903170000 +0200" channel="RealTime IT">
+    <title lang="it">Cake Star - Pasticcerie in sfida</title>
+    <sub-title lang="it">Genova</sub-title>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20190903170000 +0200" stop="20190903181500 +0200" channel="RealTime IT">
+    <title lang="it">Cake Star - Pasticcerie in sfida</title>
+    <sub-title lang="it">Bergamo</sub-title>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20190903181500 +0200" stop="20190903191500 +0200" channel="RealTime IT">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <episode-num system="xmltv_ns">8.19.</episode-num>
+  </programme>
+  <programme start="20190903191500 +0200" stop="20190903201500 +0200" channel="RealTime IT">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <episode-num system="xmltv_ns">8.21.</episode-num>
+  </programme>
+  <programme start="20190903201500 +0200" stop="20190903211000 +0200" channel="RealTime IT">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <episode-num system="xmltv_ns">8.22.</episode-num>
+  </programme>
+  <programme start="20190903211000 +0200" stop="20190903222500 +0200" channel="RealTime IT">
+    <title lang="it">Primo appuntamento</title>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+  </programme>
+  <programme start="20190903222500 +0200" stop="20190903232000 +0200" channel="RealTime IT">
+    <title lang="it">Dr. Pimple Popper: la dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Protuberanze</sub-title>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20190903232000 +0200" stop="20190904002000 +0200" channel="RealTime IT">
+    <title lang="it">Dr. Pimple Popper: la dottoressa schiacciabrufoli</title>
+    <sub-title lang="it">Bolle misteriose</sub-title>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20190903040000 +0200" stop="20190903052300 +0200" channel="Action">
+    <title lang="it">The Vampire Diaries</title>
+  </programme>
+  <programme start="20190903052300 +0200" stop="20190903061200 +0200" channel="Action">
+    <title lang="it">Undercover</title>
+  </programme>
+  <programme start="20190903061200 +0200" stop="20190903070000 +0200" channel="Action">
+    <title lang="it">Supernatural</title>
+  </programme>
+  <programme start="20190903070000 +0200" stop="20190903075200 +0200" channel="Action">
+    <title lang="it">Gotham</title>
+  </programme>
+  <programme start="20190903075200 +0200" stop="20190903083700 +0200" channel="Action">
+    <title lang="it">Izombie</title>
+  </programme>
+  <programme start="20190903083700 +0200" stop="20190903092500 +0200" channel="Action">
+    <title lang="it">The Vampire Diaries</title>
+  </programme>
+  <programme start="20190903092500 +0200" stop="20190903101500 +0200" channel="Action">
+    <title lang="it">Undercover</title>
+  </programme>
+  <programme start="20190903101500 +0200" stop="20190903110300 +0200" channel="Action">
+    <title lang="it">Supernatural</title>
+  </programme>
+  <programme start="20190903110300 +0200" stop="20190903115400 +0200" channel="Action">
+    <title lang="it">Gotham</title>
+  </programme>
+  <programme start="20190903115400 +0200" stop="20190903124000 +0200" channel="Action">
+    <title lang="it">Izombie</title>
+  </programme>
+  <programme start="20190903124000 +0200" stop="20190903132800 +0200" channel="Action">
+    <title lang="it">The Vampire Diaries</title>
+  </programme>
+  <programme start="20190903132800 +0200" stop="20190903141700 +0200" channel="Action">
+    <title lang="it">Undercover</title>
+  </programme>
+  <programme start="20190903141700 +0200" stop="20190903150500 +0200" channel="Action">
+    <title lang="it">Supernatural</title>
+  </programme>
+  <programme start="20190903150500 +0200" stop="20190903155600 +0200" channel="Action">
+    <title lang="it">Gotham</title>
+  </programme>
+  <programme start="20190903155600 +0200" stop="20190903164500 +0200" channel="Action">
+    <title lang="it">The Vampire Diaries</title>
+  </programme>
+  <programme start="20190903164500 +0200" stop="20190903173400 +0200" channel="Action">
+    <title lang="it">Undercover</title>
+  </programme>
+  <programme start="20190903173400 +0200" stop="20190903182200 +0200" channel="Action">
+    <title lang="it">Supernatural</title>
+  </programme>
+  <programme start="20190903182200 +0200" stop="20190903191500 +0200" channel="Action">
+    <title lang="it">Gotham</title>
+  </programme>
+  <programme start="20190903191500 +0200" stop="20190903200300 +0200" channel="Action">
+    <title lang="it">The 100</title>
+  </programme>
+  <programme start="20190903200300 +0200" stop="20190903205200 +0200" channel="Action">
+    <title lang="it">The 100</title>
+  </programme>
+  <programme start="20190903205200 +0200" stop="20190903214000 +0200" channel="Action">
+    <title lang="it">The Last Ship</title>
+  </programme>
+  <programme start="20190903214000 +0200" stop="20190903222900 +0200" channel="Action">
+    <title lang="it">Undercover</title>
+  </programme>
+  <programme start="20190903222900 +0200" stop="20190903231800 +0200" channel="Action">
+    <title lang="it">Supernatural</title>
+  </programme>
+  <programme start="20190903231800 +0200" stop="20190904000900 +0200" channel="Action">
+    <title lang="it">Gotham</title>
+  </programme>
+  <programme start="20190903040000 +0200" stop="20190903041500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903041500 +0200" stop="20190903043100 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903043100 +0200" stop="20190903044600 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903044600 +0200" stop="20190903050000 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903050000 +0200" stop="20190903051500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903051500 +0200" stop="20190903053000 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903053000 +0200" stop="20190903054500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903054500 +0200" stop="20190903055500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20190903055500 +0200" stop="20190903055800 +0200" channel="Canale 5">
+    <title lang="it">Traffico</title>
+  </programme>
+  <programme start="20190903055800 +0200" stop="20190903055900 +0200" channel="Canale 5">
+    <title lang="it">Meteo.it</title>
+  </programme>
+  <programme start="20190903055900 +0200" stop="20190903064500 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20190903064500 +0200" stop="20190903072200 +0200" channel="Canale 5">
+    <title lang="it">Focus Natura</title>
+  </programme>
+  <programme start="20190903072200 +0200" stop="20190903075000 +0200" channel="Canale 5">
+    <title lang="it">Viaggiatori</title>
+  </programme>
+  <programme start="20190903075000 +0200" stop="20190903090000 +0200" channel="Canale 5">
+    <title lang="it">Wild Nuova Zelanda</title>
+  </programme>
+  <programme start="20190903090000 +0200" stop="20190903110000 +0200" channel="Canale 5">
+    <title lang="it">Forum</title>
+  </programme>
+  <programme start="20190903110000 +0200" stop="20190903113900 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20190903113900 +0200" stop="20190903114000 +0200" channel="Canale 5">
+    <title lang="it">Meteo.it</title>
+  </programme>
+  <programme start="20190903114000 +0200" stop="20190903114500 +0200" channel="Canale 5">
+    <title lang="it">X-style Pillole</title>
+  </programme>
+  <programme start="20190903114500 +0200" stop="20190903121000 +0200" channel="Canale 5">
+    <title lang="it">Beautiful</title>
+  </programme>
+  <programme start="20190903121000 +0200" stop="20190903124500 +0200" channel="Canale 5">
+    <title lang="it">Una Vita</title>
+  </programme>
+  <programme start="20190903124500 +0200" stop="20190903133000 +0200" channel="Canale 5">
+    <title lang="it">Bitter Sweet</title>
+  </programme>
+  <programme start="20190903133000 +0200" stop="20190903143000 +0200" channel="Canale 5">
+    <title lang="it">Il Segreto</title>
+  </programme>
+  <programme start="20190903143000 +0200" stop="20190903164500 +0200" channel="Canale 5">
+    <title lang="it">Inga Lindstrom</title>
+  </programme>
+  <programme start="20190903164500 +0200" stop="20190903175700 +0200" channel="Canale 5">
+    <title lang="it">Caduta Libera</title>
+  </programme>
+  <programme start="20190903175700 +0200" stop="20190903180000 +0200" channel="Canale 5">
+    <title lang="it">Tg5 Prima Pagina</title>
+  </programme>
+  <programme start="20190903180000 +0200" stop="20190903183900 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20190903183900 +0200" stop="20190903184000 +0200" channel="Canale 5">
+    <title lang="it">Meteo.it</title>
+  </programme>
+  <programme start="20190903184000 +0200" stop="20190903192200 +0200" channel="Canale 5">
+    <title lang="it">Paperissima Sprint</title>
+  </programme>
+  <programme start="20190903192200 +0200" stop="20190903201500 +0200" channel="Canale 5">
+    <title lang="it">La Verita' Sul Caso Harry Quebert</title>
+  </programme>
+  <programme start="20190903201500 +0200" stop="20190903211000 +0200" channel="Canale 5">
+    <title lang="it">La Verita' Sul Caso Harry Quebert</title>
+  </programme>
+  <programme start="20190903211000 +0200" stop="20190903214900 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20190903214900 +0200" stop="20190903215100 +0200" channel="Canale 5">
+    <title lang="it">Meteo.it</title>
+  </programme>
+  <programme start="20190903215100 +0200" stop="20190903233000 +0200" channel="Canale 5">
+    <title lang="it">Animali Notturni</title>
+  </programme>
+  <programme start="20190903233000 +0200" stop="20190904000100 +0200" channel="Canale 5">
+    <title lang="it">Paperissima Sprint</title>
+  </programme>
+  <programme start="20190903040000 +0200" stop="20190903042500 +0200" channel="Focus TV">
+    <title lang="it">Car Crash TV</title>
+  </programme>
+  <programme start="20190903042500 +0200" stop="20190903051500 +0200" channel="Focus TV">
+    <title lang="it">Salt Lake Garage</title>
+  </programme>
+  <programme start="20190903051500 +0200" stop="20190903061000 +0200" channel="Focus TV">
+    <title lang="it">Salt Lake Garage</title>
+  </programme>
+  <programme start="20190903061000 +0200" stop="20190903070500 +0200" channel="Focus TV">
+    <title lang="it">Ci pensa Ralph</title>
+  </programme>
+  <programme start="20190903070500 +0200" stop="20190903080000 +0200" channel="Focus TV">
+    <title lang="it">Ci pensa Ralph</title>
+  </programme>
+  <programme start="20190903080000 +0200" stop="20190903085000 +0200" channel="Focus TV">
+    <title lang="it">Ci pensa Ralph</title>
+  </programme>
+  <programme start="20190903085000 +0200" stop="20190903094500 +0200" channel="Focus TV">
+    <title lang="it">Ci pensa Ralph</title>
+  </programme>
+  <programme start="20190903094500 +0200" stop="20190903102000 +0200" channel="Focus TV">
+    <title lang="it">Come e' fatto</title>
+  </programme>
+  <programme start="20190903102000 +0200" stop="20190903105000 +0200" channel="Focus TV">
+    <title lang="it">Come e' fatto</title>
+  </programme>
+  <programme start="20190903105000 +0200" stop="20190903112000 +0200" channel="Focus TV">
+    <title lang="it">Come e' fatto</title>
+  </programme>
+  <programme start="20190903112000 +0200" stop="20190903115000 +0200" channel="Focus TV">
+    <title lang="it">Come e' fatto</title>
+  </programme>
+  <programme start="20190903115000 +0200" stop="20190903125000 +0200" channel="Focus TV">
+    <title lang="it">Il garage delle stelle</title>
+  </programme>
+  <programme start="20190903125000 +0200" stop="20190903134500 +0200" channel="Focus TV">
+    <title lang="it">Il garage delle stelle</title>
+  </programme>
+  <programme start="20190903134500 +0200" stop="20190903144500 +0200" channel="Focus TV">
+    <title lang="it">Affari a quattro ruote</title>
+  </programme>
+  <programme start="20190903144500 +0200" stop="20190903154000 +0200" channel="Focus TV">
+    <title lang="it">Affari a quattro ruote</title>
+  </programme>
+  <programme start="20190903154000 +0200" stop="20190903161500 +0200" channel="Focus TV">
+    <title lang="it">Come ti rifaccio l'auto</title>
+  </programme>
+  <programme start="20190903161500 +0200" stop="20190903164500 +0200" channel="Focus TV">
+    <title lang="it">Come ti rifaccio l'auto</title>
+  </programme>
+  <programme start="20190903164500 +0200" stop="20190903174000 +0200" channel="Focus TV">
+    <title lang="it">Come ti rifaccio l'auto</title>
+  </programme>
+  <programme start="20190903174000 +0200" stop="20190903184000 +0200" channel="Focus TV">
+    <title lang="it">Fast N' Loud</title>
+  </programme>
+  <programme start="20190903184000 +0200" stop="20190903193500 +0200" channel="Focus TV">
+    <title lang="it">Fast N' Loud</title>
+  </programme>
+  <programme start="20190903193500 +0200" stop="20190903203000 +0200" channel="Focus TV">
+    <title lang="it">Chi cerca trova: auto da sogno</title>
+  </programme>
+  <programme start="20190903203000 +0200" stop="20190903212500 +0200" channel="Focus TV">
+    <title lang="it">Chi cerca trova: auto da sogno</title>
+  </programme>
+  <programme start="20190903212500 +0200" stop="20190903222000 +0200" channel="Focus TV">
+    <title lang="it">Affari al volante</title>
+  </programme>
+  <programme start="20190903222000 +0200" stop="20190903231500 +0200" channel="Focus TV">
+    <title lang="it">Fast N' Loud</title>
+  </programme>
+  <programme start="20190903231500 +0200" stop="20190904000500 +0200" channel="Focus TV">
+    <title lang="it">Fast N' Loud</title>
+  </programme>
+  <programme start="20190903045000 +0200" stop="20190903051600 +0200" channel="Italia 1">
+    <title lang="it">I Puffi Sanno ...</title>
+  </programme>
+  <programme start="20190903051600 +0200" stop="20190903054600 +0200" channel="Italia 1">
+    <title lang="it">C'era Una Volta... Pollon</title>
+  </programme>
+  <programme start="20190903054600 +0200" stop="20190903061500 +0200" channel="Italia 1">
+    <title lang="it">Rossana</title>
+  </programme>
+  <programme start="20190903061500 +0200" stop="20190903064100 +0200" channel="Italia 1">
+    <title lang="it">Anna Dai Capelli Rossi</title>
+  </programme>
+  <programme start="20190903064100 +0200" stop="20190903073500 +0200" channel="Italia 1">
+    <title lang="it">Everwood</title>
+  </programme>
+  <programme start="20190903073500 +0200" stop="20190903083000 +0200" channel="Italia 1">
+    <title lang="it">Everwood</title>
+  </programme>
+  <programme start="20190903083000 +0200" stop="20190903092600 +0200" channel="Italia 1">
+    <title lang="it">Bones</title>
+  </programme>
+  <programme start="20190903092600 +0200" stop="20190903102500 +0200" channel="Italia 1">
+    <title lang="it">Bones</title>
+  </programme>
+  <programme start="20190903102500 +0200" stop="20190903105800 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto</title>
+  </programme>
+  <programme start="20190903105800 +0200" stop="20190903110600 +0200" channel="Italia 1">
+    <title lang="it">Meteo.it</title>
+  </programme>
+  <programme start="20190903110600 +0200" stop="20190903114500 +0200" channel="Italia 1">
+    <title lang="it">Sport Mediaset</title>
+  </programme>
+  <programme start="20190903114500 +0200" stop="20190903121000 +0200" channel="Italia 1">
+    <title lang="it">I Simpson</title>
+  </programme>
+  <programme start="20190903121000 +0200" stop="20190903123500 +0200" channel="Italia 1">
+    <title lang="it">I Simpson</title>
+  </programme>
+  <programme start="20190903123500 +0200" stop="20190903130000 +0200" channel="Italia 1">
+    <title lang="it">I Simpson</title>
+  </programme>
+  <programme start="20190903130000 +0200" stop="20190903132600 +0200" channel="Italia 1">
+    <title lang="it">I Griffin</title>
+  </programme>
+  <programme start="20190903132600 +0200" stop="20190903135600 +0200" channel="Italia 1">
+    <title lang="it">Big Bang Theory</title>
+  </programme>
+  <programme start="20190903135600 +0200" stop="20190903142600 +0200" channel="Italia 1">
+    <title lang="it">The Middle</title>
+  </programme>
+  <programme start="20190903142600 +0200" stop="20190903145100 +0200" channel="Italia 1">
+    <title lang="it">Baby Daddy</title>
+  </programme>
+  <programme start="20190903145100 +0200" stop="20190903152100 +0200" channel="Italia 1">
+    <title lang="it">Baby Daddy</title>
+  </programme>
+  <programme start="20190903152100 +0200" stop="20190903154500 +0200" channel="Italia 1">
+    <title lang="it">E Alla Fine Arriva Mamma!</title>
+  </programme>
+  <programme start="20190903154500 +0200" stop="20190903161100 +0200" channel="Italia 1">
+    <title lang="it">E Alla Fine Arriva Mamma!</title>
+  </programme>
+  <programme start="20190903161100 +0200" stop="20190903161700 +0200" channel="Italia 1">
+    <title lang="it">Love Snack</title>
+  </programme>
+  <programme start="20190903161700 +0200" stop="20190903162500 +0200" channel="Italia 1">
+    <title lang="it">Love Snack</title>
+  </programme>
+  <programme start="20190903162500 +0200" stop="20190903163000 +0200" channel="Italia 1">
+    <title lang="it">Love Snack</title>
+  </programme>
+  <programme start="20190903163000 +0200" stop="20190903172300 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto</title>
+  </programme>
+  <programme start="20190903172300 +0200" stop="20190903172600 +0200" channel="Italia 1">
+    <title lang="it">Meteo.it</title>
+  </programme>
+  <programme start="20190903172600 +0200" stop="20190903182500 +0200" channel="Italia 1">
+    <title lang="it">C.s.i. New York</title>
+  </programme>
+  <programme start="20190903182500 +0200" stop="20190903192000 +0200" channel="Italia 1">
+    <title lang="it">C.s.i.</title>
+  </programme>
+  <programme start="20190903192000 +0200" stop="20190903201000 +0200" channel="Italia 1">
+    <title lang="it">Chicago Fire</title>
+  </programme>
+  <programme start="20190903201000 +0200" stop="20190903205600 +0200" channel="Italia 1">
+    <title lang="it">Chicago Fire</title>
+  </programme>
+  <programme start="20190903205600 +0200" stop="20190903214700 +0200" channel="Italia 1">
+    <title lang="it">Lethal Weapon</title>
+  </programme>
+  <programme start="20190903214700 +0200" stop="20190903224100 +0200" channel="Italia 1">
+    <title lang="it">Law &amp;amp; Order: Unita' Speciale</title>
+  </programme>
+  <programme start="20190903224100 +0200" stop="20190903232500 +0200" channel="Italia 1">
+    <title lang="it">Law &amp;amp; Order: Unita' Speciale</title>
+  </programme>
+  <programme start="20190903232500 +0200" stop="20190904000500 +0200" channel="Italia 1">
+    <title lang="it">Agent X</title>
+  </programme>
+  <programme start="20190903050000 +0200" stop="20190903053000 +0200" channel="Italia 2">
+    <title lang="it">Televendita Media Shopping</title>
+  </programme>
+  <programme start="20190903053000 +0200" stop="20190903061000 +0200" channel="Italia 2">
+    <title lang="it">The Vampire Diaries</title>
+  </programme>
+  <programme start="20190903061000 +0200" stop="20190903070000 +0200" channel="Italia 2">
+    <title lang="it">The Vampire Diaries</title>
+  </programme>
+  <programme start="20190903070000 +0200" stop="20190903075500 +0200" channel="Italia 2">
+    <title lang="it">Arrow</title>
+  </programme>
+  <programme start="20190903075500 +0200" stop="20190903085100 +0200" channel="Italia 2">
+    <title lang="it">Arrow</title>
+  </programme>
+  <programme start="20190903085100 +0200" stop="20190903091600 +0200" channel="Italia 2">
+    <title lang="it">Anger Management</title>
+  </programme>
+  <programme start="20190903091600 +0200" stop="20190903094100 +0200" channel="Italia 2">
+    <title lang="it">Anger Management</title>
+  </programme>
+  <programme start="20190903094100 +0200" stop="20190903101000 +0200" channel="Italia 2">
+    <title lang="it">Anger Management</title>
+  </programme>
+  <programme start="20190903101000 +0200" stop="20190903104000 +0200" channel="Italia 2">
+    <title lang="it">Anger Management</title>
+  </programme>
+  <programme start="20190903104000 +0200" stop="20190903110500 +0200" channel="Italia 2">
+    <title lang="it">Che Campioni Holly E Benji!</title>
+  </programme>
+  <programme start="20190903110500 +0200" stop="20190903112500 +0200" channel="Italia 2">
+    <title lang="it">Che Campioni Holly E Benji!</title>
+  </programme>
+  <programme start="20190903112500 +0200" stop="20190903113300 +0200" channel="Italia 2">
+    <title lang="it">Tgcom24</title>
+  </programme>
+  <programme start="20190903113300 +0200" stop="20190903114600 +0200" channel="Italia 2">
+    <title lang="it">One Piece 10</title>
+  </programme>
+  <programme start="20190903114600 +0200" stop="20190903121000 +0200" channel="Italia 2">
+    <title lang="it">One Piece 10</title>
+  </programme>
+  <programme start="20190903121000 +0200" stop="20190903123500 +0200" channel="Italia 2">
+    <title lang="it">One Piece 10</title>
+  </programme>
+  <programme start="20190903123500 +0200" stop="20190903132000 +0200" channel="Italia 2">
+    <title lang="it">Chuck</title>
+  </programme>
+  <programme start="20190903132000 +0200" stop="20190903141700 +0200" channel="Italia 2">
+    <title lang="it">Chuck</title>
+  </programme>
+  <programme start="20190903141700 +0200" stop="20190903151200 +0200" channel="Italia 2">
+    <title lang="it">The Flash</title>
+  </programme>
+  <programme start="20190903151200 +0200" stop="20190903160700 +0200" channel="Italia 2">
+    <title lang="it">The Flash</title>
+  </programme>
+  <programme start="20190903160700 +0200" stop="20190903163500 +0200" channel="Italia 2">
+    <title lang="it">Che Campioni Holly E Benji!</title>
+  </programme>
+  <programme start="20190903163500 +0200" stop="20190903170500 +0200" channel="Italia 2">
+    <title lang="it">Che Campioni Holly E Benji!</title>
+  </programme>
+  <programme start="20190903170500 +0200" stop="20190903173000 +0200" channel="Italia 2">
+    <title lang="it">Che Campioni Holly E Benji!</title>
+  </programme>
+  <programme start="20190903173000 +0200" stop="20190903175500 +0200" channel="Italia 2">
+    <title lang="it">Lamu', La Ragazza Dello Spazio</title>
+  </programme>
+  <programme start="20190903175500 +0200" stop="20190903182000 +0200" channel="Italia 2">
+    <title lang="it">Lamu', La Ragazza Dello Spazio</title>
+  </programme>
+  <programme start="20190903182000 +0200" stop="20190903184500 +0200" channel="Italia 2">
+    <title lang="it">One Piece 10</title>
+  </programme>
+  <programme start="20190903184500 +0200" stop="20190903191500 +0200" channel="Italia 2">
+    <title lang="it">One Piece 10</title>
+  </programme>
+  <programme start="20190903191500 +0200" stop="20190903210500 +0200" channel="Italia 2">
+    <title lang="it">Shark Killer</title>
+  </programme>
+  <programme start="20190903210500 +0200" stop="20190903212500 +0200" channel="Italia 2">
+    <title lang="it">Dragon Ball Super</title>
+  </programme>
+  <programme start="20190903212500 +0200" stop="20190903215000 +0200" channel="Italia 2">
+    <title lang="it">Dragon Ball Super</title>
+  </programme>
+  <programme start="20190903215000 +0200" stop="20190903221500 +0200" channel="Italia 2">
+    <title lang="it">I Cavalieri Dello Zodiaco: Saint Seya</title>
+  </programme>
+  <programme start="20190903221500 +0200" stop="20190903224000 +0200" channel="Italia 2">
+    <title lang="it">I Cavalieri Dello Zodiaco: Saint Seya</title>
+  </programme>
+  <programme start="20190903224000 +0200" stop="20190903225400 +0200" channel="Italia 2">
+    <title lang="it">Finche' C'e' Ditta C'e' Speranza</title>
+  </programme>
+  <programme start="20190903225400 +0200" stop="20190903231500 +0200" channel="Italia 2">
+    <title lang="it">Finche' C'e' Ditta C'e' Speranza</title>
+  </programme>
+  <programme start="20190903231500 +0200" stop="20190904050000 +0200" channel="Italia 2">
+    <title lang="it">Videoclip Musicali</title>
+  </programme>
+  <programme start="20190903000000 +0000" stop="20190903003000 +0000" channel="Sportitalia b">
+    <title lang="en">Lo Sai Che?</title>
+    <desc lang="en">Calcio. Aggiornamenti e informazioni dal mondo del calcio - replica(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ch-dynamic.horizon.tv/linear_images/20731372825.p.jpg" />
+  </programme>
+  <programme start="20190903003000 +0000" stop="20190903023000 +0000" channel="Sportitalia b">
+    <title lang="en">Campionato Belga 2019-20 - Kortrijk vs Anderlecht (replica)</title>
+    <desc lang="en">Match valevole per l'edizione 2019/2020 del campionato di calcio belga(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Calcio</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ch-dynamic.horizon.tv/linear_images/20731372941.p.jpg" />
+  </programme>
+  <programme start="20190903023000 +0000" stop="20190903043000 +0000" channel="Sportitalia b">
+    <title lang="en">Campionato Danese 2019-20 - Brondby vs AAB (replica)</title>
+    <desc lang="en">Partita valevole per il campionato di calcio danese 2019(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Calcio</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-ch-dynamic.horizon.tv/linear_images/20731372941.p.jpg" />
+  </programme>
+  <programme start="20190903043000 +0000" stop="20190903050000 +0000" channel="Sportitalia b">
+    <title lang="en">Sportitalia LIVE 24 notte (replica)</title>
+    <desc lang="en">Spazio dedicato all'informazione sportiva(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-ch-dynamic.horizon.tv/linear_images/20731372825.p.jpg" />
+  </programme>
+  <programme start="20190903050000 +0000" stop="20190903060000 +0000" channel="Sportitalia b">
+    <title lang="en">Sportitalia Mercato</title>
+    <desc lang="en">Sport. Tutte le ultime novità dal mondo del calciomercato insieme al formidabile duo Michele Criscitiello e Alfredo Pedullà - replica(n)</desc>
+    <credits>
+      <actor>Michele Criscitiello</actor>
+      <actor>Alfredo Pedulla</actor>
+    </credits>
+    <category lang="en">Sport</category>
+    <category lang="en">Calcio</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ch-dynamic.horizon.tv/linear_images/20731372941.p.jpg" />
+  </programme>
+  <programme start="20190903060000 +0000" stop="20190911220000 +0000" channel="Sportitalia b">
+    <title lang="en">(lang=it)</title>
+  </programme>
+  <programme start="20190903000000 +0000" stop="20190903003000 +0000" channel="Marcopolo">
+    <title lang="en">Week end</title>
+    <sub-title lang="en">Fabriano</sub-title>
+    <desc lang="en">Qualche giorno dedicato alla scoperta di Fabriano cittadina storicamente famosa per la produzione della carta(n)</desc>
+    <category lang="en">Tempo Libero</category>
+    <category lang="en">Viaggi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ch-dynamic.horizon.tv/linear_images/132549130.p.1993b4a1d225bca16e06cdcf67a7f47a7fa1f1d8.jpg" />
+  </programme>
+  <programme start="20190903003000 +0000" stop="20190903010000 +0000" channel="Marcopolo">
+    <title lang="en">Magnifica Italia</title>
+    <sub-title lang="en">Puglia: dalle isole Tremiti a Trani</sub-title>
+    <desc lang="en">Programma di cultura dedicato alla scoperta del territorio italiano(n)</desc>
+    <category lang="en">Notizie</category>
+    <category lang="en">Documentario</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ch-dynamic.horizon.tv/linear_images/39267035.p.ddb19281709ddaae1937527027793a4cae94ac73.jpg" />
+  </programme>
+  <programme start="20190903010000 +0000" stop="20190903011500 +0000" channel="Marcopolo">
+    <title lang="en">Road to Samarcanda</title>
+    <sub-title lang="en">Lago Karakoul</sub-title>
+    <desc lang="en">Il viaggio continua oltre i 4650 mt di quota, sull'altopiano del Pamir, verso la Cina. Il lago Karakoul appare all'orizzonte, al termine del rettilineo(n)</desc>
+    <category lang="en">Tempo Libero</category>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ch-dynamic.horizon.tv/linear_images/256663551.p.8e2c263d9996d0efda070fb9fd617f54278fe3fa.jpg" />
+    <episode-num system="onscreen">S1 </episode-num>
+  </programme>
+  <programme start="20190903011500 +0000" stop="20190903021000 +0000" channel="Marcopolo">
+    <title lang="en">Cercando Shangri-La</title>
+    <sub-title lang="en">Khiva, la regina del deserto</sub-title>
+    <desc lang="en">Come un miraggio, l'antica città-oasi di Khiva emerge tra le dune del deserto del Kizil-kum, uno dei territori più ostile del pianeta(n)</desc>
+    <category lang="en">Notizie</category>
+    <category lang="en">Documentario</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ch-dynamic.horizon.tv/linear_images/255405148.p.dd7a025ddb74b7c2af441768ceb585b7606f8cfb.jpg" />
+    <episode-num system="onscreen">S1 </episode-num>
+  </programme>
+  <programme start="20190903021000 +0000" stop="20190903030500 +0000" channel="Marcopolo">
+    <title lang="en">Gli ultimi paradisi</title>
+    <sub-title lang="en">Lungo la ferrovia africana</sub-title>
+    <desc lang="en">Un incredibile paesaggio tra i laghi e i corsi d'acqua della Fossa dei laghi dell'Africa orientale e l'incontro con una popolazione di pigmei e i gorilla(n)</desc>
+    <category lang="en">Educazione</category>
+    <category lang="en">Natura</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ch-dynamic.horizon.tv/linear_images/172757515.p.fded2031f69232039673ec9cc2157a9da8dc8b27.jpg" />
+  </programme>
+  <programme start="20190903030500 +0000" stop="20190903033500 +0000" channel="Marcopolo">
+    <title lang="en">Castelli d'Italia</title>
+    <sub-title lang="en">Castello Stenico</sub-title>
+    <desc lang="en">Verità e leggende dei castelli delle Dolomiti altoatesine. Oggi: Castello Stenico, dove un tempo i prigionieri venivano fatti morire di fame(n)</desc>
+    <category lang="en">Notizie</category>
+    <category lang="en">Documentario</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/linear_images/132646129.p.1993b4a1d225bca16e06cdcf67a7f47a7fa1f1d8.jpg" />
+  </programme>
+  <programme start="20190903033500 +0000" stop="20190903040500 +0000" channel="Marcopolo">
+    <title lang="en">Diario di viaggio</title>
+    <sub-title lang="en">Norvegia: Oslo</sub-title>
+    <desc lang="en">Ciro Di Maio ci guida in Norvegia alla scoperta della Capitale Oslo(n)</desc>
+    <category lang="en">Educazione</category>
+    <category lang="en">Natura</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-ch-dynamic.horizon.tv/linear_images/20731373319.p.jpg" />
+  </programme>
+  <programme start="20190903040500 +0000" stop="20190903043500 +0000" channel="Marcopolo">
+    <title lang="en">Atlante</title>
+    <sub-title lang="en">Stati Uniti estremi</sub-title>
+    <desc lang="en">Con Corrado Ruggeri raggiungiamo due degli stati USA più lontani fra loro: Alaska e Hawaii. Un viaggio dal ghiaccio al fuoco(n)</desc>
+    <category lang="en">Tempo Libero</category>
+    <category lang="en">Viaggi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ch-dynamic.horizon.tv/linear_images/132549018.p.42cd4e236018d55e14740ace4e3595eeec303bf2.jpg" />
+  </programme>
+  <programme start="20190903043500 +0000" stop="20190903050500 +0000" channel="Marcopolo">
+    <title lang="en">La gola in viaggio</title>
+    <sub-title lang="en">L'uva di Bagnoreggio</sub-title>
+    <desc lang="en">Alla scoperta dei vini buoni e genuini da abbinare alla cucina di un paese del Lazio sospeso nel vuoto da millenni, set meraviglioso per fiction e film(n)</desc>
+    <category lang="en">Tempo Libero</category>
+    <category lang="en">Cucina</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ch-dynamic.horizon.tv/linear_images/170406245.p.0276c3b429e4fcd4ed4cca7807bdd04bc4cc7efd.jpg" />
+    <episode-num system="onscreen">S1 </episode-num>
+  </programme>
+  <programme start="20190903050500 +0000" stop="20190903053500 +0000" channel="Marcopolo">
+    <title lang="en">Sapori dal mondo</title>
+    <sub-title lang="en">Il cioccolato belga</sub-title>
+    <desc lang="en">Alla scoperta del cioccolato belga, del museo del cacao e di sorprendenti ricette a base di cioccolato(n)</desc>
+    <category lang="en">Tempo Libero</category>
+    <category lang="en">Cucina</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ch-dynamic.horizon.tv/linear_images/132549497.p.a459090759e680327e22d3fbeecf627386c44dae.jpg" />
+  </programme>
+  <programme start="20190903053500 +0000" stop="20190903060500 +0000" channel="Marcopolo">
+    <title lang="en">Il mondo in tavola</title>
+    <sub-title lang="en">Cipro</sub-title>
+    <desc lang="en">Gastronomia. Nel piccolo villaggio montano di Koilineia, nell'Isola di Cipro, Kostas e sua moglie Augusta allevano le capre che forniscono latte per il formaggio halloumi(n)</desc>
+    <category lang="en">Tempo Libero</category>
+    <category lang="en">Cucina</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ch-dynamic.horizon.tv/linear_images/132549352.p.fe777a3ffe684b7563598a2ec2b8e29863e3d6a2.jpg" />
+  </programme>
+  <programme start="20190903060500 +0000" stop="20190911220000 +0000" channel="Marcopolo">
+    <title lang="en">(lang=it)</title>
+  </programme>
+  <programme start="20190903001500 +0000" stop="20190903030000 +0000" channel="RSI LA 1 HD">
+    <title lang="en">Repliche Informazione</title>
+    <desc lang="en">Repliche continuate di: Quotidiano, TG sera, Meteo notte, Info notte(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-ch-dynamic.horizon.tv/linear_images/252972194.p.a9ff8a3cf9775bc5821245badf3a5e72ed9a9f94.jpg" />
+  </programme>
+  <programme start="20190903030000 +0000" stop="20190903030500 +0000" channel="RSI LA 1 HD">
+    <title lang="en">In volo sulla Svizzera italiana</title>
+    <desc lang="en">L'apertura del palinsesto di RSI: paesaggi, vedute, natura e uomini. Le più belle riprese della Svizzera italiana realizzate dall'alto con un elicottero(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ch-dynamic.horizon.tv/linear_images/194979872.p.963e74f92b583c0f2dae6389a207714a6ad63f8a.jpg" />
+  </programme>
+  <programme start="20190903030500 +0000" stop="20190903033000 +0000" channel="RSI LA 1 HD">
+    <title lang="en">Telegiornale</title>
+    <desc lang="en">Il Telegiornale offre al pubblico la sintesi ragionata delle principali notizie del giorno, delle immagini che contano, dei temi che suscitano interesse. Vi si racconta l'attualità, ma lo si fa con uno stile diretto, senza fronzoli, cercando di cogliere l'attenzione del pubblico. Il Telegiornale dà gerarchia all'enorme quantità d'informazioni che si raccolgono e giungono ogni giorno nelle redazioni. Il TG delle 20.00, su temi rilevanti, offre anche pagine di primo approfondimento(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ch-dynamic.horizon.tv/linear_images/38883918.p.845778e58314e8a9820f29d65102929bcee4ba0c.jpg" />
+  </programme>
+  <programme start="20190903033000 +0000" stop="20190903033500 +0000" channel="RSI LA 1 HD">
+    <title lang="en">Meteo notte</title>
+    <desc lang="en">I colori del tempo; le previsioni per i prossimi giorni(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ch-dynamic.horizon.tv/linear_images/43484114.p.d26430102b6d4beb292034dd33b01fe176935c36.jpg" />
+  </programme>
+  <programme start="20190903033500 +0000" stop="20190903034500 +0000" channel="RSI LA 1 HD">
+    <title lang="en">Info Notte</title>
+    <desc lang="en">Le ultime notizie della giornata(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-ch-dynamic.horizon.tv/linear_images/245765691.p.e141ecdc078ddf5868e41593e8da78c583e05e3a.jpg" />
+  </programme>
+  <programme start="20190903034500 +0000" stop="20190903060000 +0000" channel="RSI LA 1 HD">
+    <title lang="en">Albachiara</title>
+    <desc lang="en">Magazine d'informazione, Swaziland 2019(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Magazin</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/linear_images/20731373607.p.jpg" />
+  </programme>
+  <programme start="20190903060000 +0000" stop="20190911220000 +0000" channel="RSI LA 1 HD">
+    <title lang="en">(lang=de)</title>
+  </programme>
+  <programme start="20190903000000 +0000" stop="20190903030000 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Repliche Informazione</title>
+    <desc lang="en">Repliche continuate di: Quotidiano, TG sera, Meteo notte, Info notte(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ch-dynamic.horizon.tv/linear_images/252972194.p.a9ff8a3cf9775bc5821245badf3a5e72ed9a9f94.jpg" />
+  </programme>
+  <programme start="20190903030000 +0000" stop="20190903031500 +0000" channel="RSI LA 2 HD">
+    <title lang="en">In volo sulla Svizzera italiana</title>
+    <desc lang="en">L'apertura del palinsesto di RSI: paesaggi, vedute, natura e uomini. Le più belle riprese della Svizzera italiana realizzate dall'alto con un elicottero(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ch-dynamic.horizon.tv/linear_images/194979872.p.963e74f92b583c0f2dae6389a207714a6ad63f8a.jpg" />
+  </programme>
+  <programme start="20190903031500 +0000" stop="20190903041500 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Il Quotidiano</title>
+    <sub-title lang="en">Attualità della Svizzera italiana</sub-title>
+    <desc lang="en">Attualità della Svizzera italiana: la cronaca, le notizie e i servizi della giornata(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ch-dynamic.horizon.tv/linear_images/43484365.p.7599364bd432fb310993680f3ba4080d9317958d.jpg" />
+  </programme>
+  <programme start="20190903041500 +0000" stop="20190903044500 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Telegiornale</title>
+    <desc lang="en">Il Telegiornale offre al pubblico la sintesi ragionata delle principali notizie del giorno, delle immagini che contano, dei temi che suscitano interesse. Vi si racconta l'attualità, ma lo si fa con uno stile diretto, senza fronzoli, cercando di cogliere l'attenzione del pubblico. Il Telegiornale dà gerarchia all'enorme quantità d'informazioni che si raccolgono e giungono ogni giorno nelle redazioni. Il TG delle 20.00, su temi rilevanti, offre anche pagine di primo approfondimento(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-ch-dynamic.horizon.tv/linear_images/38883918.p.845778e58314e8a9820f29d65102929bcee4ba0c.jpg" />
+  </programme>
+  <programme start="20190903044500 +0000" stop="20190903045000 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Meteo notte</title>
+    <desc lang="en">I colori del tempo; le previsioni per i prossimi giorni(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ch-dynamic.horizon.tv/linear_images/43484114.p.d26430102b6d4beb292034dd33b01fe176935c36.jpg" />
+  </programme>
+  <programme start="20190903045000 +0000" stop="20190903050000 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Info Notte</title>
+    <desc lang="en">Le ultime notizie della giornata(n)</desc>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-ch-dynamic.horizon.tv/linear_images/245765691.p.e141ecdc078ddf5868e41593e8da78c583e05e3a.jpg" />
+  </programme>
+  <programme start="20190903050000 +0000" stop="20190903052000 +0000" channel="RSI LA 2 HD">
+    <title lang="en">100 cose da fare prima del liceo</title>
+    <sub-title lang="en">Il primo giorno di scuola - parte 2</sub-title>
+    <desc lang="en">Telefilm(n)</desc>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/linear_images/20731373500.p.jpg" />
+  </programme>
+  <programme start="20190903052000 +0000" stop="20190903054500 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Le avventure del gatto con gli stivali</title>
+    <sub-title lang="en">Il possente Puzzolomeo</sub-title>
+    <desc lang="en">Cartoni animati. Un topolino arriva a San Lorenzo contemporaneamente e misteriosamente gli abitanti della città vengono trasformati in pietra(n)</desc>
+    <date>2015</date>
+    <category lang="en">Kids</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kids, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ch-dynamic.horizon.tv/linear_images/193230827.p.27776bd431f12118901082ceddeb3c400864df87.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20190903054500 +0000" stop="20190903055500 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Zou</title>
+    <sub-title lang="en">La mimetizzazione di Zou</sub-title>
+    <desc lang="en">Cartoni animati. Una piccola zebra vive in una città moderna circondata dalla sua famiglia: genitori, nonni, bisnonni e cugini(n)</desc>
+    <date>2017</date>
+    <category lang="en">Kids</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kids, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-ch-dynamic.horizon.tv/linear_images/164342803.p.13c5d1d5df6b929df4bc3c925e79e37fcfc36df3.jpg" />
+  </programme>
+  <programme start="20190903055500 +0000" stop="20190903060000 +0000" channel="RSI LA 2 HD">
+    <title lang="en">Simone</title>
+    <sub-title lang="en">L'elfo dei pomodori</sub-title>
+    <desc lang="en">Simone è un coniglietto vivace e curioso, che non ama perdere e che adora divertirsi con il suo fratellino Gaspare, che vorrebbe imitarlo in tutto. Insieme sono una coppia inarrestabile! Con loro c'è anche la mamma Eva, un tipo ma sempre attento e premuroso coi suoi bambini, e papà Andrea, moderno e molto presente, che si appassiona facilmente a tutto quello che fa(n)</desc>
+    <date>2016</date>
+    <category lang="en">Kids</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kids, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-ch-dynamic.horizon.tv/linear_images/256686286.p.c2cef3debfffde3ce7265381ec9721a918f7ec53.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190903060000 +0000" stop="20190911220000 +0000" channel="RSI LA 2 HD">
+    <title lang="en">(lang=de)</title>
+  </programme>
+</tv>
